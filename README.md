@@ -15,7 +15,9 @@ I use a first-differenced version of OLS with state fixed effects and year fixed
 I find null results with respect to the effect of gas prices on voter turnout. I find that an 10 cent increase 
 in the change in gas prices is associated with a 1 percentage point decrease in the vote share the incumbant receives.
 
-<img width="283" height="208" alt="Screenshot 2025-12-25 at 10 22 02 PM" src="https://github.com/user-attachments/assets/d50c4a5f-5801-4103-b130-bc9c2191ac9a" />
+<img width="288" height="202" alt="Screenshot 2025-12-25 at 10 32 05 PM" src="https://github.com/user-attachments/assets/61c8e8af-cc19-43d2-bd16-7aba0a14cb6b" />
+
+<img width="363" height="334" alt="Screenshot 2025-12-25 at 10 32 13 PM" src="https://github.com/user-attachments/assets/ed34d7e4-a174-4f3d-8297-d91b6cae0887" />
 
 
 # Robustness/Placebo checks
@@ -30,4 +32,17 @@ show mostly significant p-values and coefficients that are very similar in magni
 that did not yield p < 0.05 was still marginally significant at p = 0.062. This model used county fixed effects which 
 is far more conservative than state fixed effects.
 
-<img width="337" height="231" alt="Screenshot 2025-12-25 at 10 21 21 PM" src="https://github.com/user-attachments/assets/378d5ef7-010b-4615-b7dc-04edd3eaac2a" />
+
+<img width="339" height="240" alt="Screenshot 2025-12-25 at 10 32 23 PM" src="https://github.com/user-attachments/assets/40cfb0b3-9a14-4258-8942-2887f8d6eef9" />
+
+# Learning Outcomes
+
+I learned about the process of research in this project. I learned about how to formulate a question that can actually be answered—I started out with some more vague questions like relationships between transportation and connectivity. This is hard to answer so I had to figure out how to ask a question that is both interesting, practically relevant, and answered with publically available data. 
+
+I also got practice with the more mundane parts of writing a research paper—using Overleaf, LaTeX, and figuring out how to visualize my findings in an easy to read manner.
+
+I encountered some problems, like wrapping my head around what fixed effects mean in a first-differenced model, initial issues with my placebo tests, and deciding how to code certain variables. 
+
+Finally, I had a lot of fun being able to put all my ideas and findings into a coherent paper. I like this paper and think it has very relevant implications to today's world. You can read the conclusion in the paper for a little more detail, but my findings have implications regarding how politicians think about the effect of policies on gas prices, the effects EVs might have on voter behavior, and how environmental reforms might influence voters and therefore politicians. 
+
+In general, this paper definitely sparked an interest in transportation and sustainability. It also made me realize just how important politics is in economics—no matter how much I'd like to pretend politics doesn't exist, it is indeed true that it is a serious force in the economy and must not be disregarded. 
