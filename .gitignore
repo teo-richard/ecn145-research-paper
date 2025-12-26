@@ -1,0 +1,9 @@
+raw_data/
+
+.lintr
+.DS_Store
+.Rhistory
+
+Notes including notes written by Z.ai and notes on horse race models.
+
+temp.csv (a temporary csv for testing)
