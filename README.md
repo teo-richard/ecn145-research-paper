@@ -39,7 +39,7 @@ is far more conservative than state fixed effects.
 
 I learned about the process of research in this project. I learned about how to formulate a question that can actually be answered—I started out with some more vague questions like relationships between transportation and connectivity. This is hard to answer so I had to figure out how to ask a question that is both interesting, practically relevant, and answered with publically available data. 
 
-I also got practice with the more mundane parts of writing a research paper—using Overleaf, LaTeX, and figuring out how to visualize my findings in an easy to read manner.
+I also got practice with the more mundane parts of writing a research paper—using LaTeX, clearly explaining all the ideas bouncing around in my head, and figuring out how to visualize my findings in an easy to read manner.
 
 I encountered some problems, like wrapping my head around what fixed effects mean in a first-differenced model, initial issues with my placebo tests, and deciding how to code certain variables. 
 
